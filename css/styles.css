@@ -1,3 +1,18 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
+ul {
+	list-style-type: none;
+	display: block;
+ 	width: 700px;
+	margin: 10px auto;
+}
+li {
+	float: left;
+	display: inline-block;
+	width: 60 px;
+}
+a: link{
+	
+}
