@@ -1,7 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
-
+.topnav {
+    align-content: center;
+    text-align: center;
+}
 ul {
 	list-style-type: none;
 	display: block;
@@ -13,11 +16,16 @@ ul {
 li {
 	display: inline-block;
 	width: 60 px;
-	background-color: black;
+	background-color: navajowhite;
 }
 a: link{
 	
+	
 }
 p {
-	text-align: center;
+	float: right;
+}
+
+.cover photo {
+    align-content: center;
 }
