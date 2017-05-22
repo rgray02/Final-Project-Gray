@@ -2,30 +2,29 @@
 /* CSS Document */
 
 .topnav {
+    display: none;
+    margin: 20px;
+    padding: 40px;
+    font-size: 20px;
+    font-style: 250;
     align-content: center;
     text-align: center;
+    display: inline-block;
+    float: left;
 }
-ul {
-	list-style-type: none;
-	display: block;
- 	width: 600px;
-	margin: 0px;
-	padding: 0px;
+
 	
+.map{
+    float: left;
+    content: clear;
+    
 }
-li {
-	display: inline-block;
-	width: 60 px;
-	background-color: navajowhite;
-}
-a: link{
-	
-	
-}
-p {
-	float: right;
+.info section {
+	float: left;
 }
 
 .cover photo {
-    align-content: center;
+    margin: 50px auto;
+    padding: 50px;
+    
 }
