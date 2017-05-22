@@ -1,18 +1,25 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.topnav {
-    display: none;
-    margin: 20px;
-    padding: 40px;
-    font-size: 20px;
-    font-style: 250;
-    align-content: center;
-    text-align: center;
-    display: inline-block;
-    float: left;
+*{
+    margin: 0;
 }
+nav {
+    width: 100%;
+    background-color: black;
+    height: 65px;
+    font-size: 20px;
+    text-align: center;
+}
+ nav p{
+    display: inline-block;
+    padding: 0 100px;
+    line-height: 65px;
 
+ }
+ nav a{
+    text-decoration: none;
+ }
 	
 .map{
     float: left;
@@ -23,8 +30,6 @@
 	float: left;
 }
 
-.cover photo {
-    margin: 50px auto;
-    padding: 50px;
-    
+.coverphoto img {
+    width: 100%;
 }
