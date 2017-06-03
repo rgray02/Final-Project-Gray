@@ -18,18 +18,38 @@ nav {
 
  }
  nav a{
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
  }
+  a:link {
+    color: white;
+  }
 	
+    a:visited {
+        color: yellow;
+    }
+    a:hover {
+        color: red;
+
+    }
+    a:active {
+        color: black;
+    }
 .map{
     float: left;
     content: clear;
     
 }
 .info section {
+
 	float: left;
 }
 
 .coverphoto img {
     width: 100%;
+}
+
+.fourm {
+    font-family: 'Roboto', sans-serif; 
+    text font-size: 30px;
 }
