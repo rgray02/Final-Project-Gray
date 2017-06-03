@@ -38,12 +38,11 @@ nav {
 .map{
     float: left;
     content: clear;
+    width: 400px;
+    height: 250px;
     
 }
-.info section {
 
-	float: left;
-}
 
 .coverphoto img {
     width: 100%;
@@ -52,4 +51,11 @@ nav {
 .fourm {
     font-family: 'Roboto', sans-serif; 
     text font-size: 30px;
+    content: hide; 
+}
+
+.textbox {
+    
+    width: 550px;
+    border: 10px, gray;
 }
