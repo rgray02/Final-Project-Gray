@@ -65,8 +65,10 @@ fieldset {
 
 
 .nxmap {
-    display: block;
-    float: left;
+height: 10em;
+width: 50em;
+float: left;
+padding-left: 20px;
 }
 
 
