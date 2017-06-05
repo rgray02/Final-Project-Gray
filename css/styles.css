@@ -48,21 +48,21 @@ nav {
 
 .fourm {
     font-family: 'Roboto', sans-serif; 
-    font-size: 15px;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
     text-align: center;
-    
-}
-
-.textbox {
-    
-
-}
-
-.fourm {
-    text-align: center;
-    height: 50em;
+    height: 10em;
     width: 50em;
 }
+
+fieldset {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    background-color: orange;
+}
+
 
 
 
