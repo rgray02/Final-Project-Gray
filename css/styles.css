@@ -37,7 +37,7 @@ nav {
     }
 
 .map{
-    float: left;
+    padding-left: 20px;
     
 }
 
@@ -60,11 +60,14 @@ fieldset {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     border: none;
-    background-color: orange;
+    background-color: #c6be89;
 }
 
 
-
+.nxmap {
+    display: block;
+    float: left;
+}
 
 
 
