@@ -48,12 +48,33 @@ nav {
 
 .fourm {
     font-family: 'Roboto', sans-serif; 
-    text font-size: 30px;
-    content: hide; 
+    font-size: 15px;
+    text-align: center;
+    
 }
 
 .textbox {
     
-    width: 550px;
-    border: 10px, gray;
+
 }
+
+.fourm {
+    text-align: center;
+    height: 50em;
+    width: 50em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
