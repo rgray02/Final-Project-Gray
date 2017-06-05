@@ -35,11 +35,9 @@ nav {
     a:active {
         color: black;
     }
+
 .map{
     float: left;
-    content: clear;
-    width: 400px;
-    height: 250px;
     
 }
 
