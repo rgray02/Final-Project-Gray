@@ -66,7 +66,7 @@ fieldset {
 
 
 .nxmap {
-height: 10em;
+height: 3em;
 width: 50em;
 float: left;
 padding-left: 20px;
@@ -78,10 +78,38 @@ padding-left: 20px;
 
 }
 
+.walk {
 
+}
 
+.post-container {
+    margin: 20px 20px 0 0;  
+    overflow: auto;
+padding-left: 5%;
+font-size: 20px;
 
+}
+.surfimage {
+    float: right;
+}
+.surfimage img {
+display: block;
+width:450px;
+height:300px;
+margin-right: 10px;
 
+}
+
+.surfthings {
+    margin-left: 450px;
+font-family: 'Assistant', sans-serif;
+
+}
+.surfspot {
+    font-weight: bold;
+    font-size: 200%;
+font-family: 'Alice', serif;
+}
 
 
 
