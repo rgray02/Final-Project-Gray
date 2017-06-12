@@ -41,13 +41,12 @@ nav {
     
 }
 
-
 .coverphoto img {
     width: 100%;
 }
 
 .fourm {
-    font-family: 'Roboto', sans-serif; 
+    font-family: 'Open Sans', sans-serif; 
     font-size: 20px;
     display: block;
     margin: 0 auto;
@@ -55,6 +54,26 @@ nav {
     padding-top: 10px;
     height: 10em;
     width: 50em;
+}
+.paragraphtextt {
+    font-family: 'Open Sans', sans-serif;
+    width: 40%;
+    margin: auto;
+    padding-top: 7%;
+    line-height: 1.3em;
+    padding-bottom: 4%;
+
+}
+
+
+.paragraphtext {
+    font-family: 'Open Sans', sans-serif;
+    width: 40%;
+    margin: auto;
+    padding-top: 2%;
+    line-height: 1.3em;
+    padding-bottom: 4%;
+
 }
 
 fieldset {
@@ -70,6 +89,7 @@ height: 3em;
 width: 50em;
 float: left;
 padding-left: 20px;
+font-family: 'Open Sans', sans-serif;
 }
 
 .line {
@@ -89,15 +109,16 @@ padding-left: 5%;
 font-size: 20px;
 
 }
+
 .surfimage {
     float: right;
 }
+
 .surfimage img {
 display: block;
-width:450px;
-height:300px;
-margin-right: 10px;
-
+width: 40%;
+margin: auto;
+padding-top: 3%;
 }
 
 .surfthings {
@@ -105,10 +126,12 @@ margin-right: 10px;
 font-family: 'Assistant', sans-serif;
 
 }
+
 .surfspot {
+    font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     font-size: 200%;
-font-family: 'Alice', serif;
+    padding-left: 4%;
 }
 
 
