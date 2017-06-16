@@ -40,10 +40,12 @@ nav {
     padding-left: 20px;
     
 }
-
+.coverphoto{
+    margin-bottom: -5px;
+}
 .coverphoto img {
     width: 100%;
-    border: none;
+
 
 }
 
@@ -81,7 +83,7 @@ nav {
 
 fieldset {
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     border: none;
     background-color: #c6be89;
 }
@@ -101,21 +103,6 @@ font-family: 'Open Sans', sans-serif;
 
 }
 
-.walk {
-
-}
-
-.post-container {
-    margin: 20px 20px 0 0;  
-    overflow: auto;
-padding-left: 5%;
-font-size: 20px;
-
-}
-
-.surfimage {
-    float: right;
-}
 
 .surfimage img {
 display: block;
@@ -137,8 +124,22 @@ font-family: 'Assistant', sans-serif;
     padding-left: 4%;
 }
 
+.one img {
+    width: 40%;
+    padding-left: 100px;
+    float: left;
 
+}
 
+/*bottom two images home page*/
 
+.two img {
+    width: 20%;
+    padding-left: 200px;
 
+}
 
+.bottom img {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
